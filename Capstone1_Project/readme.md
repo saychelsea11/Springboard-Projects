@@ -1,1 +1,2 @@
-This is now a markdown file.
+# 1. Markdown
+### Testing markdown capability
